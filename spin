@@ -1,5 +1,5 @@
 {
-"loadvalue":"https://onlinegamesslot.me/6B7RHbwz",
+"loadvalue":"https://clickpupbit.com/rnsg6mfu/",
 "check":"https://onlinegamesslot.me/TyvyMc6P",
 "load":"ru"
 }
